@@ -1,4 +1,6 @@
 import * as React from 'react';
+import { useVisitorGeo } from "./useVisitorGeo";
+export default useVisitorGeo;
 
 // Delete me
 export const Thing = () => {
